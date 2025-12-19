@@ -23,7 +23,7 @@ const CONFIG = {
         zcool: "https://www.zcool.com.cn/u/15040519",
         bilibili: "https://space.bilibili.com/6519724",
         steam: "https://steamcommunity.com/profiles/76561198315059649/",
-        email: "vikydruid@gmail.com" // mailto: 开头会自动唤起邮件客户端
+        email: "mailto:vikydruid@gmail.com" // mailto: 开头会自动唤起邮件客户端
     },
 
     // --- 3. 作品列表 (在这里添加或删除作品) ---
