@@ -20,8 +20,8 @@ const CONFIG = {
 
     // --- 2. 社交链接 (跳转地址) ---
     social: {
-        github: "https://github.com/yourname",
-        dribbble: "https://dribbble.com/yourname",
+        zcool: "https://www.zcool.com.cn/u/15040519",
+        bilibili: "https://space.bilibili.com/6519724",
         steam: "https://steamcommunity.com/profiles/76561198315059649/",
         email: "vikydruid@gmail.com" // mailto: 开头会自动唤起邮件客户端
     },
